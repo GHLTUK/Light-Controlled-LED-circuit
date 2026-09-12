@@ -1,14 +1,21 @@
 # Light-Controlled-LED-circuit
 
-Images/
-Photo 1
-Photo 2
-Photo 3
+A light-sensitive LED circuit project.
 
-Video/
-https://drive.google.com/file/d/1rxeI21GGE2MQkI1PBeVYHj2PHRHFR_Di/view?usp=drivesdk
+```text
+Light-Controlled-LED-circuit/
+├── README.md
+├── Images/
+│   ├── Photo 1
+│   ├── Photo 2
+│   └── Photo 3
+├── Video/
+│   └── (Drive Link)
+├── Report/
+│   └── (Report PDF)
+└── Presentation/
+    └── Circuit - Presentation.pdf
+```
 
-Report/
-
-Presentation/
-
+## Links & Documents
+* **Video:** [Google Drive Video Link](https://drive.google.com/file/d/1rxel21GGE2MQkl1PBeVYHj2PHRHFR_Di/view?usp=drivesdk)
