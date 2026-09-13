@@ -6,15 +6,16 @@ A light-sensitive LED circuit project.
 Light-Controlled-LED-circuit/
 ├── README.md
 ├── Images/
-│   ├── Photo 1
-│   ├── Photo 2
-│   └── Photo 3
+│   ├── Photo1.jpeg
+│   ├── Photo2.jpeg
+│   └── Photo3.jpeg
 ├── Video/
-│   └── (Drive Link)
+│   └── CircuitTest.md
 ├── Report/
-│   └── (Report PDF)
+│   └── Report.pdf
 └── Presentation/
     └── Circuit - Presentation.pdf
+
 ```
 
 ## Links & Documents
